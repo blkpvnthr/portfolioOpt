@@ -10,14 +10,6 @@ The main objectives of this project are to:
 3. **Generate Custom Covariance Matrix:** Calculate the covariance matrix between stocks based on their historical returns.
 4. **Identify Optimal Portfolio Candidates:** Select stocks with positive expected returns that outweigh their variance for a balanced risk-reward portfolio.
 
-## Files Included
-- `sp500_stock_metrics.csv`: Contains metrics for each stock in the S&P 500.
-- `optimal_portfolio_candidates.csv`: Contains candidates for the optimal portfolio based on expected returns and risk.
-- `custom_covariance_matrix.csv`: Covariance matrix for selected stocks in the optimal portfolio.
-- `mvp_info.csv`: Information on the Minimum Variance Portfolio (MVP).
-- `optimal_weights.csv`: Weights for the Minimum Variance Portfolio.
-- `optimal_portfolio.csv`: Detailed stock list and weights in the optimal portfolio.
-- `mvp_and_optimal_portfolio.csv`: Combined MVP information and optimal portfolio stock weights.
 
 ## Requirements
 
